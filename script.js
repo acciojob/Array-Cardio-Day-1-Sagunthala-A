@@ -45,7 +45,7 @@ export function map() {
 // Array.prototype.sort()
 // 3. Sort the inventors by birthdate, oldest to youngest and return the sorted array
 export function sort() {
-
+	
 }
 
 
@@ -53,7 +53,9 @@ export function sort() {
 // 4. How many years did all the inventors live?
 // Return the total number of years all the inventors lived
 export function reduce() {
-
+	return inventors.reduce(()=>{
+		
+	})
 }
 
 // 5. Sort the inventors by years lived and return the sorted array
